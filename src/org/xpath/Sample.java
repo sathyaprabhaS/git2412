@@ -23,6 +23,8 @@ public class Sample {
 		String currentUrl = driver.getCurrentUrl();
 		System.out.println(currentUrl);
 		
+		System.out.println("sathyaprabha S");
+		
 		
 		
 	}
